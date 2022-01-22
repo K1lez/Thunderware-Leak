@@ -2,7 +2,6 @@
 Latest Version (Since Rotations Update)
 
 <h2>Why did i leak this?</h2>
-<br>
 The owner is retarded, paster doesn't even know basic java.
 <br>
 He claims to have "made a base" which is just a mix mintycodes and some other retard's.
